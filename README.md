@@ -34,7 +34,7 @@ The primary goal is to build a predictive model that can estimate a customer's f
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * **Python**: The core programming language used for the project.
 * **Pandas**: For data manipulation and analysis, especially for handling the transaction data and RFM dataframe.
